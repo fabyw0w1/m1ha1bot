@@ -26,4 +26,4 @@ async def on_message(message):
         await message.author.send('merge')
 
 # Conectează botul folosind token-ul
-bot.run('MTIxMTQwNjYwMDc4NzczMDUxMg.Gsd8rY.6HQUGeSUwrrprbL7LdzvMMgGcD_BHsJBaAzbEU')
+bot.run('MTIxMTQwNjYwMDc4NzczMDUxMg.GEH5Ve.4siehRiW5nvCY8deovusBUOr-p2ZZrG75_KP6Y')
